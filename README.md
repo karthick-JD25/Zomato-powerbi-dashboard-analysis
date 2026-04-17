@@ -1,16 +1,16 @@
-# Zomato Restaurant Analytics Dashboard (Power BI)
+# Restaurant Performance Analytics Dashboard (Power BI)
 
 ## Dashboard Preview
-<img width="1918" height="995" alt="image" src="https://github.com/user-attachments/assets/c3bf95f8-e81c-4814-876f-0f9fbc9a330a" />
+<img width="1919" height="823" alt="image" src="https://github.com/user-attachments/assets/3a96004b-606f-446f-9587-bb7d4541cc2c" />
 
 
 ## Project Overview
-This project analyzes Zomato restaurant data using Power BI to identify trends in restaurant distribution, customer ratings, pricing patterns, and cuisine popularity.
+This project analyzes restaurant performance data using Power BI to identify key business insights related to customer ratings, pricing patterns, cuisine popularity, and location-based performance.
 
-The dashboard helps stakeholders understand business performance and make data-driven decisions for market expansion and service improvement.
+The dashboard enables stakeholders to evaluate operational performance, identify high-demand cuisine categories, and support strategic business decisions.
 
 ## Problem Statement
-Businesses in the food industry require insights into customer preferences, pricing trends, and location-based performance to remain competitive.
+Businesses in the food industry require analytical insights to understand customer preferences, pricing strategies, and geographic performance in order to improve profitability and customer satisfaction.
 
 ## Tools Used
 Power BI  
@@ -19,28 +19,30 @@ SQL
 
 ## Key Insights
 
-• New Delhi has the highest restaurant concentration, indicating strong demand  
-• Majority of restaurants have ratings between 3.0 and 4.0  
-• North Indian cuisine shows highest customer preference  
-• Most restaurants fall within affordable pricing categories  
-• Restaurant growth trend indicates expansion opportunities
+• Major cities show higher restaurant concentration indicating strong market demand  
+• Majority of restaurants fall within the 3.0 – 4.0 rating range  
+• Certain cuisine categories demonstrate higher customer preference  
+• Most restaurants operate within affordable pricing segments  
+• Growth trend indicates increasing market opportunities
 
 ## Dashboard Features
-• KPI cards (Total restaurants, ratings, pricing metrics)
-• Country and city filters
+• KPI metrics (Total Restaurants, Average Rating, Average Cost)
+• Location-based restaurant distribution analysis
 • Rating distribution visualization
-• Price distribution analysis
-• Restaurant growth trend
 • Cuisine popularity insights
+• Price range distribution analysis
+• Year-wise restaurant growth trend
+• Interactive filters for dynamic analysis
 
 ## Skills Demonstrated
 
 • Power BI Dashboard Development  
 • Data Cleaning and Transformation  
-• KPI Design and Performance Metrics  
-• Business Insight Generation  
-• Trend Analysis  
+• KPI Metrics Design  
+• Business Data Analysis  
 • Data Visualization  
+• Analytical Thinking  
+• Insight Generation  
 
 ## Business Impact
-The analysis helps businesses identify high-demand cuisines, understand pricing patterns, and select profitable locations. These insights support strategic decision-making and improve customer satisfaction.
+This analysis helps stakeholders identify market opportunities, optimize pricing strategies, and understand customer preferences. The insights support data-driven decision-making for business expansion and performance improvement.
