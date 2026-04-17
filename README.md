@@ -18,11 +18,12 @@ Excel
 SQL  
 
 ## Key Insights
+
+• New Delhi has the highest restaurant concentration, indicating strong demand  
 • Majority of restaurants have ratings between 3.0 and 4.0  
-• New Delhi has the highest number of restaurants  
-• North Indian cuisine is most popular  
-• Most restaurants fall within affordable price categories  
-• Restaurant growth trend shows increasing market expansion  
+• North Indian cuisine shows highest customer preference  
+• Most restaurants fall within affordable pricing categories  
+• Restaurant growth trend indicates expansion opportunities
 
 ## Dashboard Features
 • KPI cards (Total restaurants, ratings, pricing metrics)
@@ -33,12 +34,13 @@ SQL
 • Cuisine popularity insights
 
 ## Skills Demonstrated
-Data Visualization using Power BI  
-Business Insight Generation  
-Dashboard Development  
-KPI Design  
-Trend Analysis  
-Data Interpretation  
+
+• Power BI Dashboard Development  
+• Data Cleaning and Transformation  
+• KPI Design and Performance Metrics  
+• Business Insight Generation  
+• Trend Analysis  
+• Data Visualization  
 
 ## Business Impact
 The analysis helps businesses identify high-demand cuisines, understand pricing patterns, and select profitable locations. These insights support strategic decision-making and improve customer satisfaction.
